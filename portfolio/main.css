@@ -1,0 +1,23 @@
+
+         .stayle1 {
+            color: blue;
+            font: size 20px;
+            width: 200px; 
+            padding-left: 10px; 
+         }
+         .stayle2 {
+             color: rgb(27, 19, 34);
+             font-size: medium;
+             text-align: center;
+         } 
+         header
+         {  
+            text-align: left;
+            color: brown;
+            font-weight: 300;
+            font-size: medium;
+        }
+        .titel {
+            font-size: 65px ;
+            background-color: aqua;
+        }
